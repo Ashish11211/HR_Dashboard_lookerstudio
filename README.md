@@ -36,9 +36,11 @@ This project is an HR Analytics Dashboard built to track and analyze candidate d
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="800"/>
+  <img src="HR.PNG" width="800"/>
 </p>
 
+📄 **Download Full Dashboard (PDF):**
+[Click Here](HR_DASHBOARD.pdf)
 ---
 
 ## 💡 Insights Generated
